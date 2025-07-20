@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/ViLINV5WhlU)
 
 <h2>Description</h2>
-Project consists of HTML pages and a style.css page that I designed and programmed for a final project. Microsoft Visual Studio Code, Bootstrap, and a brand style guide were used to produce the final results. - WAVE checker for accessibility, and Pexels for free Creative Commons licensed images.
+Project consists of HTML pages and a Style.css page that I designed and programmed for a final project. Microsoft Visual Studio Code, Bootstrap, and a brand style guide were used to produce the final results. - WAVE checker for accessibility, and Pexels for free Creative Commons licensed images.
 <br />
 
 
