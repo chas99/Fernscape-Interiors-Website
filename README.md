@@ -24,32 +24,24 @@ Project consists of HTML pages and a style.css page that I designed and programm
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+index.html: <br/>
+<img src="https://i.imgur.com/rcqFx02.png" height="80%" width="80%" alt="Home Page"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+about.html:  <br/>
+<img src="https://i.imgur.com/PKb8gKc.png" height="80%" width="80%" alt="About Page"/>
+ <img src="https://i.imgur.com/tcRdZd1.png" height="80%" width="80%" alt="About Page"/>
+<br /> 
+<br />
+services.html: <br/>
+<img src="https://i.imgur.com/w9INoBz.png" height="80%" width="80%" alt="Services Page"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+contact.html:  <br/>
+<img src="https://i.imgur.com/GH7VLDa.png" height="80%" width="80%" alt="Contact Page"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
